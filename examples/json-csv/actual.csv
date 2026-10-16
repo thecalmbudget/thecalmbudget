@@ -1,0 +1,4 @@
+active,age,city,country,description,id,name,notes
+True,30,New York,USA,"She lives in ""Central Park"" and loves multi-line text",001,"Alice, Jr.",Contact: alice@example.com
+False,25,München,Germany,"He has a car, a bike, and a boat.",002,Café Müller,Prefers German cuisine
+True,,東京,日本,日本語テスト,003,田中太郎,
